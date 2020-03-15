@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "raspberry-pi-86d1b": {
+      "hosting": {
+        "firebaseProject": [
+          "raspberry-pi-86d1b"
+        ]
+      }
+    }
+  }
+}
